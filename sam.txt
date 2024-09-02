@@ -6,3 +6,6 @@ echo "eligible for vote"
 else
 echo "not eligible"
 fi
+
+this script is to eligible for vote
+this is an example file
