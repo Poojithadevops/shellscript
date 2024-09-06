@@ -1,0 +1,8 @@
+a=20
+b=10
+
+echo $a
+echo $b
+
+
+this is the example for cherry pick
