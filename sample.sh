@@ -10,4 +10,6 @@ echo "sum of a+b : " $sum
 
 git is one software
 git consists of serval stages 
-like working,staging,local repo
+like working,staging,local repo 
+
+example for stash command 
